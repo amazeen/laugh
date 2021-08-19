@@ -16,7 +16,7 @@ for (var i = 0; i < numOfButtons; i++) {
         nephew1.play();
         break;
       case "four":
-        var jan1 = new Audio("sounds/JaniceLaugh.mp3");
+        var jan1 = new Audio("sounds/Janicelaugh.mp3");
         jan1.play();
         break;
       case "five":
