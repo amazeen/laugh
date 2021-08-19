@@ -1,0 +1,69 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+}
+
+h2 {
+  margin-top: 50px;
+  font-size: 2rem;
+  color: orange;
+  font-family: "Arvo", cursive;
+}
+
+footer {
+  color: #DBEDF3;
+  font-family: sans-serif;
+}
+
+.k {
+  background-image: url("images/laugh1.png");
+}
+
+.t {
+  background-image: url("images/laugh2.jpg");
+}
+
+.m {
+  background-image: url("images/laugh3.jpg");
+}
+
+.jan1 {
+  background-image: url("images/laugh4.jpg");
+}
+
+.e {
+  background-image: url("images/laugh5.jpg");
+}
+
+.jan2 {
+  background-image: url("images/laugh6.jpg");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.laugh {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 2rem;
+  font-family: 'Arvo', cursive;
+  line-height: 1;
+  font-weight: 500;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 5px;
+  background-color: white;
+}
